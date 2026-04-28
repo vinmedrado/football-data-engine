@@ -42,5 +42,11 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add state/ config/run_config.json
-          git commit -m "chore: update pipeline state" || echo "No changes to commit"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update pipeline state"
+            git pull --rebase origin main
+            git push origin main
+          fi
