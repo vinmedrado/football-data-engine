@@ -1,8 +1,9 @@
 {
   "test_mode": false,
   "max_leagues": null,
-  "league_slugs": [
-  ],
+  "league_slugs": [],
+  "batch_size": 20,
+  "current_index": 0,
   "start_date": "2023-01-01",
   "end_date": "yesterday",
   "headless": true,

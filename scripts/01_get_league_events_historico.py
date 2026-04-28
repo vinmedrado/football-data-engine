@@ -367,6 +367,21 @@ def main():
     ligas = load_json(LEAGUES_FILE) or []
     config = load_json(RUN_CONFIG) or {}
 
+    batch_size = int(config.get("batch_size", 20))
+    current_index = int(config.get("current_index", 0))
+
+    total_ligas = len(ligas)
+
+    if current_index >= total_ligas:
+        print(f"[BATCH] current_index={current_index} >= total_ligas={total_ligas}. Reiniciando para 0.")
+        current_index = 0
+
+    end_index = min(current_index + batch_size, total_ligas)
+
+    print(f"[BATCH] Processando ligas {current_index} até {end_index} de {total_ligas}")
+
+    ligas = ligas[current_index:end_index]
+
     start_date_raw = config.get("start_date", "2023-01-01")
     end_date_raw = config.get("end_date", "yesterday")
 
@@ -460,6 +475,18 @@ def main():
             print(f"[OK] novos jogos: {len(novos_total)} | total acumulado: {len(eventos_finais)}")
 
         save_state(state)
+
+        novo_index = current_index + batch_size
+
+        if novo_index >= total_ligas:
+            novo_index = 0
+
+        config["current_index"] = novo_index
+
+        with open(RUN_CONFIG, "w", encoding="utf-8") as f:
+            json.dump(config, f, ensure_ascii=False, indent=2)
+
+        print(f"[BATCH] Próximo current_index salvo: {novo_index}")
         browser.close()
 
 
