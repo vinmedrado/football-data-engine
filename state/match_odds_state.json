@@ -19259,6 +19259,4039 @@
         "empty_attempts": 1,
         "error_attempts": 0
       }
+    },
+    "6eDWyJFc": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "l2FUa6dc": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "OONrx34j": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "htXCsPtT": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "KSY4qoCG": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "C2Vdo7s4": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "21PGyTHU": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "UmR8wkmI": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "rDM0zPz9": {
+      "market::1x2_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      }
+    },
+    "OpZRhYXQ": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "jXzKff3E": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "vqUYWjB7": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "MNN0uBI5": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "dGebOgJU": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "U34sSyK5": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "YyBYTckg": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "QXvFTyr4": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Kf0lrycc": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "z17kQFlI": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "UPyWPgsT": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "GMgctFR9": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "EcD2KX4j": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "lWT8Dx5C": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "0OCQVJKt": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "MaYNRFCG": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "McsGBGZO": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "hKt7VcDi": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "dhKdu7Or": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "4IN4woge": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Q9TQpT0L": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "hdVInkW8": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "SIwXOov2": {
+      "market::1x2_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      }
+    },
+    "OMlgWToS": {
+      "market::1x2_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      }
+    },
+    "GGSVc4Jq": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "AP4u9xGU": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "O27E8LX1": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "W4SZF3uS": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "b5J5daWO": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "fDMl0sXa": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "j9a0WOP8": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "C2CYHPAF": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "EHgFG2Ht": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Wria3QeM": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "tpDOCKG5": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "2wQdbL1C": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "YcYu232m": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "YJ9GEtng": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "OtWwdrld": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "vkEQJot3": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "2a1XAboI": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Kf86m4mf": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "x8kYDaEr": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Ozd1MjSj": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "0nvutfgT": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "K8xPqxf4": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "IyUTvarI": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "KtljTLYq": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "0heaoLfS": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "KEgqk3e3": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "h81cRa3d": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "lEmmpfKc": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "hSiimsQF": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Msp3JLjL": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "MRoerYlA": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "ALmtCwqe": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "IoilAHD7": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "SYuXsGOG": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "CrZGobPi": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "nDCqsXo4": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "M5B6Zupe": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "ERSPM20k": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "Eu8by2Fr": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "feRRtOiL": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "zH9dLkPp": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "j5mKG1k2": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "ju4Tsvl1": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "MoXwXMZr": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "vRTExqCL": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "jROfTvZ7": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "6DV6v5s9": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "bsPlkMeR": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "fDAKq0Jl": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "IXGtirRE": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "rupCINKk": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "UBznV04e": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "IwdkFJ9c": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "E5kbDcvA": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "x4fw4g1d": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "QPzYPzOF": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "UwiV5FWq": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "nJm6By9M": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "IaXPRdg3": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "jX33iGHj": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "dAGOwMoA": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "ruf5jaVF": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "bFjthC6K": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "UyUVy0GM": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "l4gcN01T": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "l0cDpUbf": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "AgAoWUq1": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "lMA2Wwvp": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "zeSFurHc": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "tzf5njUs": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "6L3fU8ED": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "8lzUHvPj": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "MZ8AUH8d": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "xrichL03": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "E5NcGRmn": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
+    },
+    "ERbYS4Xi": {
+      "market::1x2_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::1x2_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::ou_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::ou_ht": {
+        "status": "empty",
+        "empty_attempts": 1,
+        "error_attempts": 0
+      },
+      "market::btts_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::dc_ft": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      },
+      "market::corners_ou": {
+        "status": "ok",
+        "empty_attempts": 0,
+        "error_attempts": 0
+      }
     }
   },
   "processados": [
